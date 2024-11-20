@@ -8,7 +8,7 @@ Licence of Use:
 
     b. Any liability or guarantee is excluded
        (I can help you to setup your Server or fixes any Mistakes, 
-       but there is no legal claim or compensation of any kind. 
+       but there is no legal claim or compensation of any kind) 
 
        This Presets contain no Compiled-Code. 
        Reset to Template, should be sufficient in most Cases to fix Errors.
@@ -52,10 +52,17 @@ If you need help, or there are still open Questions, contact me.
 
 These Contact options are posible
 
-Directly here on GitHub, 
-Discord  Username: Chaikobar (#6884), 
-Session Messenger - ID: 05bb5d94d1c009e20afb0fe4ea612d76d4230ed87dfb0350f7dd77f6f18ca73f3d  (Downloadable from https://getsession.org/download)
-NexusMods   Username: Chaikobar1
+Directly here on GitHub
+
+Discord  
+Username: Chaikobar (#6884)
+
+Session Messenger 
+ID: 05bb5d94d1c009e20afb0fe4ea612d76d4230ed87dfb0350f7dd77f6f18ca73f3d  
+(Downloadable from https://getsession.org/download)
+
+NexusMods   
+Username: Chaikobar1
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
