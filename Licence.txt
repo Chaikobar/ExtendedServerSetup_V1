@@ -2,33 +2,41 @@ Licence of Use:
 
 1. Exclusion of Claims
 
-    a. At resulting potential Damages, Systemcrashs etc. through improper Manipulation or Modifications of any File or all Files.  
+    a. At resulting potential Damages, Systemcrashs etc. 
+       through improper Manipulation or Modifications of any File or all Files.  
        Changes at your own Risk !! (In whole or in Part or in individual Parts or Files)
 
     b. Any liability or guarantee is excluded
-       (I can help you to setup your Server or fixes any Mistakes, but there is no legal claim or compensation of any kind. 
+       (I can help you to setup your Server or fixes any Mistakes, 
+       but there is no legal claim or compensation of any kind. 
 
-       This Presets contain no Compiled-Code. Reset to Template, should be sufficient in most Cases to fix Errors.
+       This Presets contain no Compiled-Code. 
+       Reset to Template, should be sufficient in most Cases to fix Errors.
        So is Articles "a." and "b." a precautionary standard Text to the exclusion of any legal Claims,
        but is important to say that...
 
 
 2. Unauthorized Uses
 
-    a. It is generally not allowed to re-upload this Files on other Hostings, Repositorys or Mod and Guide/Tutorial Sites.
+    a. It is generally not allowed to re-upload this Files on other Hostings, 
+       Repositorys or Mod and Guide/Tutorial Sites.
 
-    b. It is basically prohibited to sell or offer for sale any of the Files, or in any other Way to obtain financial advantages. 
-       NO EXCEPTIONS
-       Personal and consensual Agreements between Server-Admin and Server-Users, to share the Operating-Costs from the Server(Hosting) are not affected.
-       This Preset-Files from my own Server-Setup, created with many hours of Work, is a free Support and Help for the initial Server-Setup or expansion of your Own Server.
+    b. It is basically prohibited to sell or offer for sale any of the Files, 
+       or in any other Way to obtain financial advantages. NO EXCEPTIONS
+       Personal and consensual Agreements between Server-Admin and Server-Users, 
+       to share the Operating-Costs from the Server(Hosting) are not affected.
+       This Preset-Files from my own Server-Setup, created with many hours of Work, 
+       is a free Support and Help for the initial Server-Setup or expansion of your Own Server.
 
 
 3. Authorized Uses
 
-    a.  It is explicitly permitted to add or integrade these Files or parts of them to your Server-Setup. of course is the whole Point 
+    a.  It is explicitly permitted to add or integrade these Files or parts of them to your Server-Setup. 
+        of course is the whole Point 
 
     b. For personal or private Use, no Credits are Necessary. 
-       If the Server is listed Publicly and the Setup contains partially or completely copied Data from my Files, then please visibly indicate me as the Source.
+       If the Server is listed Publicly and the Setup contains partially or completely copied Data from my Files, 
+       then please visibly indicate me as the Source.
 
     c. to modificate the Settings to your own Requirements
 
